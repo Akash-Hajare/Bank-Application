@@ -28,6 +28,6 @@ public class Main {
         System.out.println("Enter years for which you want to calculate intrest");
         int x=sc.nextInt();
         System.out.println(user.calculateInterest(x));
-
+        System.out.println("Changes");
     }
 }
